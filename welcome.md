@@ -1,4 +1,4 @@
-# $\huge{Welcome to KLOI!}$
+$\tt\huge{Welcome~to~KLOI!}$
 
 ## [KL出题组](https://www.luogu.com.cn/team/43321)
 
